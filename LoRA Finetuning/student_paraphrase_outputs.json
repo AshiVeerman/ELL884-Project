@@ -1,0 +1,274 @@
+[
+  {
+    "reference": [
+      "Which are the best Hollywood thriller movies?",
+      "What are the best thriller movie in Hollywood?"
+    ],
+    "prediction": "Paraphrase:\n['Which are the best Hollywood thriller movies?', 'What are the best thriller movie in Hollywood?']\n\nParaphrase:",
+    "clean_prediction": "['Which are the best Hollywood thriller movies?', 'What are the best thriller movie in Hollywood?']"
+  },
+  {
+    "reference": [
+      "What job possibilities exist for a Bachelors in Homeland Security?",
+      "What jobs are available with a bachelor\u2019s degree in Homeland Security?"
+    ],
+    "prediction": "Paraphrase:\n['What job possibilities exist for a Bachelors in Homeland Security?', 'What jobs are available with a bachelor\u2019s degree in Homeland Security?']\n\nParaphrase:",
+    "clean_prediction": "['What job possibilities exist for a Bachelors in Homeland Security?', 'What jobs are available with a bachelor\u2019s degree in Homeland Security?']"
+  },
+  {
+    "reference": [
+      "Which are the best books to understand calculus?",
+      "What are good books to self study calculus?"
+    ],
+    "prediction": "Paraphrase:\n['Which are the best books to understand calculus?', 'What are good books to self study calculus?']\n\nParaphrase:",
+    "clean_prediction": "['Which are the best books to understand calculus?', 'What are good books to self study calculus?']"
+  },
+  {
+    "reference": [
+      "Why and how did you break up with her/him?",
+      "How and why did you break up with your ex?"
+    ],
+    "prediction": "Paraphrase:\n['Why and how did you break up with her/him?', 'How and why did you break up with your ex?']\n\nParaphrase:",
+    "clean_prediction": "['Why and how did you break up with her/him?', 'How and why did you break up with your ex?']"
+  },
+  {
+    "reference": [
+      "What is the best answer to what you did in two years gap in a job interview?",
+      "What is the best excuse to explain a gap (of one or two years) in your job career for a job interview?"
+    ],
+    "prediction": "Paraphrase:\n['What is the best answer to what you did in two years gap in a job interview?', 'What is the best excuse to explain a gap (of one or two years) in your job career for a job interview?']\n\nParaphrase:",
+    "clean_prediction": "['What is the best answer to what you did in two years gap in a job interview?', 'What is the best excuse to explain a gap (of one or two years) in your job career for a job interview?']"
+  },
+  {
+    "reference": [
+      "What do countries do to prevent war?",
+      "How should countries prevent war?"
+    ],
+    "prediction": "Paraphrase:\n['What do countries do to prevent war?', 'How should countries prevent war?']\n\nParaphrase:",
+    "clean_prediction": "['What do countries do to prevent war?', 'How should countries prevent war?']"
+  },
+  {
+    "reference": [
+      "How can I become a billionaire?",
+      "How can I become a billionaire (in finance)?"
+    ],
+    "prediction": "Paraphrase:\n['How can I become a billionaire?', 'How can I become a billionaire (in finance)?']\n\nParaphrase:",
+    "clean_prediction": "['How can I become a billionaire?', 'How can I become a billionaire (in finance)?']"
+  },
+  {
+    "reference": [
+      "How will Indian GDP be affected from banning 500 and 1000 rupees notes?",
+      "What will be the implications of banning 500 and 1000 rupees currency notes on Indian economy?"
+    ],
+    "prediction": "Paraphrase:\n['How will Indian GDP be affected from banning 500 and 1000 rupees notes?', 'What will be the implications of banning 500 and 1000 rupees currency notes on Indian economy?']\n\nParaphrase:",
+    "clean_prediction": "['How will Indian GDP be affected from banning 500 and 1000 rupees notes?', 'What will be the implications of banning 500 and 1000 rupees currency notes on Indian economy?']"
+  },
+  {
+    "reference": [
+      "Why does understanding death philosophical?",
+      "What makes understanding death philosophical?"
+    ],
+    "prediction": "Paraphrase:\n['Why does understanding death philosophical?', 'What makes understanding death philosophical?']\n\nParaphrase:",
+    "clean_prediction": "['Why does understanding death philosophical?', 'What makes understanding death philosophical?']"
+  },
+  {
+    "reference": [
+      "Why are dogs considered omnivores?",
+      "Are dogs carnivorous animals?"
+    ],
+    "prediction": "Paraphrase:\n['Why are dogs considered omnivores?', 'Are dogs carnivorous animals?']\n\nParaphrase:",
+    "clean_prediction": "['Why are dogs considered omnivores?', 'Are dogs carnivorous animals?']"
+  },
+  {
+    "reference": [
+      "What are the most interesting foods you have eaten in any country?",
+      "What is the most delicious dish you've ever eaten and why?"
+    ],
+    "prediction": "Paraphrase:\n['What are the most interesting foods you have eaten in any country?', \"What is the most delicious dish you've ever eaten and why?\"]\n\nParaphrase:",
+    "clean_prediction": "['What are the most interesting foods you have eaten in any country?', \"What is the most delicious dish you've ever eaten and why?\"]"
+  },
+  {
+    "reference": [
+      "How can one increase concentration?",
+      "How can I improve my concentration?"
+    ],
+    "prediction": "Paraphrase:\n['How can one increase concentration?', 'How can I improve my concentration?']\n\nParaphrase:",
+    "clean_prediction": "['How can one increase concentration?', 'How can I improve my concentration?']"
+  },
+  {
+    "reference": [
+      "What are the pros and cons of the German Shepherd dog?",
+      "What are the pros and cons of having a pet German Shepherd?"
+    ],
+    "prediction": "Paraphrase:\n['What are the pros and cons of the German Shepherd dog?', 'What are the pros and cons of having a pet German Shepherd?']\n\nParaphrase:",
+    "clean_prediction": "['What are the pros and cons of the German Shepherd dog?', 'What are the pros and cons of having a pet German Shepherd?']"
+  },
+  {
+    "reference": [
+      "What would be the best way to quit smoking?",
+      "How did you quit/stop smoking?"
+    ],
+    "prediction": "Paraphrase:\n['What would be the best way to quit smoking?', 'How did you quit/stop smoking?']\n\nParaphrase:",
+    "clean_prediction": "['What would be the best way to quit smoking?', 'How did you quit/stop smoking?']"
+  },
+  {
+    "reference": [
+      "Earthquake resistant homes?",
+      "How do earthquake resistant buildings work?"
+    ],
+    "prediction": "Paraphrase:\n['Earthquake resistant homes?', 'How do earthquake resistant buildings work?']\n\nParaphrase:",
+    "clean_prediction": "['Earthquake resistant homes?', 'How do earthquake resistant buildings work?']"
+  },
+  {
+    "reference": [
+      "What is the best phone to buy below 15k?",
+      "Which are best mobile phones to buy under 15000?"
+    ],
+    "prediction": "Paraphrase:\n['What is the best phone to buy below 15k?', 'Which are best mobile phones to buy under 15000?']\n\nParaphrase:",
+    "clean_prediction": "['What is the best phone to buy below 15k?', 'Which are best mobile phones to buy under 15000?']"
+  },
+  {
+    "reference": [
+      "How do we start a business?",
+      "How do I start business from nothing?"
+    ],
+    "prediction": "Paraphrase:\n['How do we start a business?', 'How do I start business from nothing?']\n\nParaphrase:",
+    "clean_prediction": "['How do we start a business?', 'How do I start business from nothing?']"
+  },
+  {
+    "reference": [
+      "What's the best near-death experience you've ever had?",
+      "Has anyone ever had a near-death experience?"
+    ],
+    "prediction": "Paraphrase:\n[\"What's the best near-death experience you've ever had?\", 'Has anyone ever had a near-death experience?']\n\nParaphrase:",
+    "clean_prediction": "[\"What's the best near-death experience you've ever had?\", 'Has anyone ever had a near-death experience?']"
+  },
+  {
+    "reference": [
+      "Why do I keep getting fleas from my dogs?",
+      "How can I keep my dog from getting fleas?"
+    ],
+    "prediction": "Paraphrase:\n['Why do I keep getting fleas from my dogs?', 'How can I keep my dog from getting fleas?']\n\nParaphrase:",
+    "clean_prediction": "['Why do I keep getting fleas from my dogs?', 'How can I keep my dog from getting fleas?']"
+  },
+  {
+    "reference": [
+      "What year did the letter J come?",
+      "When was the Letter J created?"
+    ],
+    "prediction": "Paraphrase:\n['What year did the letter J come?', 'When was the Letter J created?']\n\nParaphrase:",
+    "clean_prediction": "['What year did the letter J come?', 'When was the Letter J created?']"
+  },
+  {
+    "reference": [
+      "What are the most important books ever written?",
+      "What is the most important book you have ever read?"
+    ],
+    "prediction": "Paraphrase:\n['What are the most important books ever written?', 'What is the most important book you have ever read?']\n\nParaphrase:",
+    "clean_prediction": "['What are the most important books ever written?', 'What is the most important book you have ever read?']"
+  },
+  {
+    "reference": [
+      "How can I become a good speaker?",
+      "What should I do to be a good Speaker?"
+    ],
+    "prediction": "Paraphrase:\n['How can I become a good speaker?', 'What should I do to be a good Speaker?']\n\nParaphrase:",
+    "clean_prediction": "['How can I become a good speaker?', 'What should I do to be a good Speaker?']"
+  },
+  {
+    "reference": [
+      "How can I write a letter to Mr. Narendra Modi?",
+      "How can I write to Narendra Modi?"
+    ],
+    "prediction": "Paraphrase:\n['How can I write a letter to Mr. Narendra Modi?', 'How can I write to Narendra Modi?']\n\nParaphrase:",
+    "clean_prediction": "['How can I write a letter to Mr. Narendra Modi?', 'How can I write to Narendra Modi?']"
+  },
+  {
+    "reference": [
+      "What do you think about the Bermuda Triangle?",
+      "What are your theories about Bermuda Triangle?"
+    ],
+    "prediction": "Paraphrase:\n['What do you think about the Bermuda Triangle?', 'What are your theories about Bermuda Triangle?']\n\nParaphrase:",
+    "clean_prediction": "['What do you think about the Bermuda Triangle?', 'What are your theories about Bermuda Triangle?']"
+  },
+  {
+    "reference": [
+      "What should someone do to overcome anxiety?",
+      "What should I do to avoid depression and anxiety?"
+    ],
+    "prediction": "Paraphrase:\n['What should someone do to overcome anxiety?', 'What should I do to avoid depression and anxiety?']\n\nParaphrase:",
+    "clean_prediction": "['What should someone do to overcome anxiety?', 'What should I do to avoid depression and anxiety?']"
+  },
+  {
+    "reference": [
+      "How do I maintain my peace of mind?",
+      "How can I maintain my peace of mind?"
+    ],
+    "prediction": "Paraphrase:\n['How do I maintain my peace of mind?', 'How can I maintain my peace of mind?']\n\nParaphrase:",
+    "clean_prediction": "['How do I maintain my peace of mind?', 'How can I maintain my peace of mind?']"
+  },
+  {
+    "reference": [
+      "Which one is better among KMC Manipal and KMC Mangalore?",
+      "What is the brief comparison of KMC in Manipal and Mangalore?"
+    ],
+    "prediction": "Paraphrase:\n['Which one is better among KMC Manipal and KMC Mangalore?', 'What is the brief comparison of KMC in Manipal and Mangalore?']\n\nParaphrase:",
+    "clean_prediction": "['Which one is better among KMC Manipal and KMC Mangalore?', 'What is the brief comparison of KMC in Manipal and Mangalore?']"
+  },
+  {
+    "reference": [
+      "How do I keep motivation to learn a language?",
+      "How do you keep motivated when you learn a new language?"
+    ],
+    "prediction": "Paraphrase:\n['How do I keep motivation to learn a language?', 'How do you keep motivated when you learn a new language?']\n\nParaphrase:",
+    "clean_prediction": "['How do I keep motivation to learn a language?', 'How do you keep motivated when you learn a new language?']"
+  },
+  {
+    "reference": [
+      "What is the different between Chinese wedding ceremony and western wedding ceremony?",
+      "What is the difference between Chinese and Western style wedding?"
+    ],
+    "prediction": "Paraphrase:\n['What is the different between Chinese wedding ceremony and western wedding ceremony?', 'What is the difference between Chinese and Western style wedding?']\n\nParaphrase:",
+    "clean_prediction": "['What is the different between Chinese wedding ceremony and western wedding ceremony?', 'What is the difference between Chinese and Western style wedding?']"
+  },
+  {
+    "reference": [
+      "Why should one hate Shahrukh Khan?",
+      "Why do people hate Shahrukh Khan and why do people feel that he is not an Indian?"
+    ],
+    "prediction": "Paraphrase:\n['Why should one hate Shahrukh Khan?', 'Why do people hate Shahrukh Khan and why do people feel that he is not an Indian?']\n\nParaphrase:",
+    "clean_prediction": "['Why should one hate Shahrukh Khan?', 'Why do people hate Shahrukh Khan and why do people feel that he is not an Indian?']"
+  },
+  {
+    "reference": [
+      "What are the best self-help books you've ever read?",
+      "What are the top self help books I should read?"
+    ],
+    "prediction": "Paraphrase:\n[\"What are the best self-help books you've ever read?\", 'What are the top self help books I should read?']\n\nParaphrase:",
+    "clean_prediction": "[\"What are the best self-help books you've ever read?\", 'What are the top self help books I should read?']"
+  },
+  {
+    "reference": [
+      "Is Evernote useful?",
+      "What is Evernote used for?"
+    ],
+    "prediction": "Paraphrase:\n['Is Evernote useful?', 'What is Evernote used for?']\n\nParaphrase:",
+    "clean_prediction": "['Is Evernote useful?', 'What is Evernote used for?']"
+  },
+  {
+    "reference": [
+      "What is a good song to lyric prank your best friend?",
+      "What are some good lyric prank songs to send your best friends?"
+    ],
+    "prediction": "Paraphrase:\n['What is a good song to lyric prank your best friend?', 'What are some good lyric prank songs to send your best friends?']\n\nParaphrase:",
+    "clean_prediction": "['What is a good song to lyric prank your best friend?', 'What are some good lyric prank songs to send your best friends?']"
+  },
+  {
+    "reference": [
+      "How do I pass a drug test for methamphetamine?",
+      "Can hair dye help pass a hair follicle drug test for daily meth smokers?"
+    ],
+    "prediction": "Paraphrase:\n['How do I pass a drug test for methamphetamine?', 'Can hair dye help pass a hair follicle drug test for daily meth smokers?']\n\nParaphrase:",
+    "clean_prediction": "['How do I pass a drug test for methamphetamine?', 'Can hair dye help pass a hair follicle drug test for daily meth smokers?']"
+  }
+]
