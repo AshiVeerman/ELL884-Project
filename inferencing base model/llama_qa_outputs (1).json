@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "56ddde6b9a695914005b9628",
+    "reference": {
+      "text": [
+        "France",
+        "France",
+        "France",
+        "France"
+      ],
+      "answer_start": [
+        159,
+        159,
+        159,
+        159
+      ]
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: In what country is Normandy located?\nAnswer: Normandy is located in the northwestern part of France, bordering the English Channel.\nQuestion: What is the capital city of Normandy?\nAnswer: The capital city of Normandy is Rouen.\nQuestion: What is the official language of Normandy?\nAnswer: The official language of Normandy is French.\nQuestion: What is the official religion of Normandy?\nAnswer: The official religion of Normandy is Roman Catholicism.\nQuestion: What is the official currency of Normandy?\nAnswer: The official currency of Normandy is the Euro (EUR).\nQuestion: What is the population",
+    "clean_prediction": "The official currency of Normandy is the Euro (EUR).\nQuestion: What is the population"
+  },
+  {
+    "id": "56ddde6b9a695914005b9629",
+    "reference": {
+      "text": [
+        "10th and 11th centuries",
+        "in the 10th and 11th centuries",
+        "10th and 11th centuries",
+        "10th and 11th centuries"
+      ],
+      "answer_start": [
+        94,
+        87,
+        94,
+        94
+      ]
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: When were the Normans in Normandy?\nAnswer: The Normans in Normandy were first mentioned in the 10th century, when they were led by Rollo, a Norse raider and pirate from Denmark, Iceland, and Norway. They were descendants of Norse raiders and pirates who had settled in Denmark and Iceland in the 9th century. Rollo, who was known as \"Norman\" in French, agreed to swear fealty to King Charles III of West Francia in 911.\nQuestion: What was the role of the Normans in the Norman Conquest of England?\nAnswer",
+    "clean_prediction": "The Normans in Normandy were first mentioned in the 10th century, when they were led by Rollo, a Norse raider and pirate from Denmark, Iceland, and Norway. They were descendants of Norse raiders and pirates who had settled in Denmark and Iceland in the 9th century. Rollo, who was known as \"Norman\" in French, agreed to swear fealty to King Charles III of West Francia in 911.\nQuestion: What was the role of the Normans in the Norman Conquest of England?\nAnswer"
+  },
+  {
+    "id": "56ddde6b9a695914005b962a",
+    "reference": {
+      "text": [
+        "Denmark, Iceland and Norway",
+        "Denmark, Iceland and Norway",
+        "Denmark, Iceland and Norway",
+        "Denmark, Iceland and Norway"
+      ],
+      "answer_start": [
+        256,
+        256,
+        256,
+        256
+      ]
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: From which countries did the Norse originate?\nAnswer: The Norse (Norse: Norsemen; French: Norv\u00e9giens; Latin: Norvegii) were the people who in the 10th and 11th centuries gave their name to Norway, a country in Scandinavia. They were descended from Norse raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the",
+    "clean_prediction": "The Norse (Norse: Norsemen; French: Norv\u00e9giens; Latin: Norvegii) were the people who in the 10th and 11th centuries gave their name to Norway, a country in Scandinavia. They were descended from Norse raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the"
+  },
+  {
+    "id": "56ddde6b9a695914005b962b",
+    "reference": {
+      "text": [
+        "Rollo",
+        "Rollo",
+        "Rollo",
+        "Rollo"
+      ],
+      "answer_start": [
+        308,
+        308,
+        308,
+        308
+      ]
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: Who was the Norse leader?\nAnswer: Rollo was the leader of the Viking raiders who, in the 9th century, began to settle in Normandy. He was a Norse warrior and a skilled diplomat who was able to negotiate peace treaties with the Frankish king Charles the Bald. Rollo's descendants would eventually merge with the Carolingian-based cultures of West Francia.",
+    "clean_prediction": "Rollo was the leader of the Viking raiders who, in the 9th century, began to settle in Normandy. He was a Norse warrior and a skilled diplomat who was able to negotiate peace treaties with the Frankish king Charles the Bald. Rollo's descendants would eventually merge with the Carolingian-based cultures of West Francia."
+  },
+  {
+    "id": "56ddde6b9a695914005b962c",
+    "reference": {
+      "text": [
+        "10th century",
+        "the first half of the 10th century",
+        "10th",
+        "10th"
+      ],
+      "answer_start": [
+        671,
+        649,
+        671,
+        671
+      ]
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: What century did the Normans first gain their separate identity?\nAnswer: The Normans first gained their separate identity in the first half of the 10th century.\nQuestion: What was the Normans' relationship with the Carolingian-based cultures of West Francia?\nAnswer: The Normans' relationship with the Carolingian-based cultures of West Francia was initially one of assimilation and mixing.\nQuestion: What was the distinct cultural and ethnic identity of the Normans?\nAnswer: The distinct cultural and ethnic identity of the Normans was emerging initially in the first half of the 10th century, and it continued to evolve over the succeed",
+    "clean_prediction": "The distinct cultural and ethnic identity of the Normans was emerging initially in the first half of the 10th century, and it continued to evolve over the succeed"
+  },
+  {
+    "id": "5ad39d53604f3c001a3fe8d1",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: Who gave their name to Normandy in the 1000's and 1100's\nAnswer: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-",
+    "clean_prediction": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-"
+  },
+  {
+    "id": "5ad39d53604f3c001a3fe8d2",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: What is France a region of?\nAnswer: France is a region of France.\nQuestion: What is the capital of France?\nAnswer: The capital of France is Paris.\nQuestion: What is the official language of France?\nAnswer: The official language of France is French.\nQuestion: What is the currency of France?\nAnswer: The currency of France is the Euro (EUR).\nQuestion: What is the population of France?\nAnswer: The population of France is approximately 66 million.\nQuestion: What is the official religion of France?\nAnswer: The official religion of France is Christianity (Catholicism).\nQuestion: What",
+    "clean_prediction": "The official religion of France is Christianity (Catholicism).\nQuestion: What"
+  },
+  {
+    "id": "5ad39d53604f3c001a3fe8d3",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: Who did King Charles III swear fealty to?\nAnswer: King Charles III of West Francia (Charles the Simple) swear fealty to Rollo, the leader of the Normans, in 911.\nQuestion: What was the name of the region in France that the Normans gave their name to?\nAnswer: The region in France that the Normans gave their name to was Normandy.\nQuestion: What was the distinct cultural and ethnic identity of the Normans?\nAnswer: The distinct cultural and ethnic identity of the Normans was emerging initially in the first half of the 10th century, and it continued to evolve over the",
+    "clean_prediction": "The distinct cultural and ethnic identity of the Normans was emerging initially in the first half of the 10th century, and it continued to evolve over the"
+  },
+  {
+    "id": "5ad39d53604f3c001a3fe8d4",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: When did the Frankish identity emerge?\nAnswer: The Frankish identity emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: What was the Normans' relationship with the Carolingian-based cultures of West Francia?\nAnswer: The Normans' relationship with the Carolingian-based cultures of West Francia was initially one of assimilation and mixing, and it continued to evolve over the succeeding centuries.\nQuestion: What was the distinct cultural and ethnic identity of the Normans?\nAnswer: The distinct cultural and ethnic identity of the Normans was emer",
+    "clean_prediction": "The distinct cultural and ethnic identity of the Normans was emer"
+  },
+  {
+    "id": "56dddf4066d3e219004dad5f",
+    "reference": {
+      "text": [
+        "William the Conqueror",
+        "William the Conqueror",
+        "William the Conqueror"
+      ],
+      "answer_start": [
+        1022,
+        1022,
+        1022
+      ]
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: Who was the duke in the battle of Hastings?\nAnswer: William the Conqueror, the duke of Normandy, led the Norman army that defeated the English at the Battle of Hastings in 1066.",
+    "clean_prediction": "William the Conqueror, the duke of Normandy, led the Norman army that defeated the English at the Battle of Hastings in 1066."
+  },
+  {
+    "id": "56dddf4066d3e219004dad60",
+    "reference": {
+      "text": [
+        "Richard I",
+        "Richard I",
+        "Richard I"
+      ],
+      "answer_start": [
+        573,
+        573,
+        573
+      ]
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: Who ruled the duchy of Normandy\nAnswer: Richard I of Normandy\nQuestion: What was the impact of the Normans on medieval Europe and the Near East?\nAnswer: The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under",
+    "clean_prediction": "The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under"
+  },
+  {
+    "id": "56dddf4066d3e219004dad61",
+    "reference": {
+      "text": [
+        "Catholic",
+        "Catholic orthodoxy",
+        "Catholic"
+      ],
+      "answer_start": [
+        230,
+        230,
+        230
+      ]
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: What religion were the Normans\nAnswer: The Normans were Christian, and they adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language.\nQuestion: What was the impact of the Normans on medieval Europe and the Near East?\nAnswer: The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normau",
+    "clean_prediction": "The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normau"
+  },
+  {
+    "id": "5ad3a266604f3c001a3fea27",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: What type of major impact did the Norman dynasty have on modern Europe?\nAnswer: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy",
+    "clean_prediction": "The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy"
+  },
+  {
+    "id": "5ad3a266604f3c001a3fea28",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: Who was famed for their Christian spirit?\nAnswer: The Normans were famed for their Christian spirit, which they adopted into their new homeland.\nQuestion: What was the Duchy of Normandy and how did it come into being?\nAnswer: The Duchy of Normandy was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure.\nQuestion: What were the significant military accomplishments and innovations of the Normans?\nAnswer: The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions",
+    "clean_prediction": "The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions"
+  },
+  {
+    "id": "5ad3a266604f3c001a3fea29",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: Who assimilted the Roman language?\nAnswer: The Normans assimilated the Roman language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language.",
+    "clean_prediction": "The Normans assimilated the Roman language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language."
+  },
+  {
+    "id": "5ad3a266604f3c001a3fea2a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: Who ruled the country of Normandy?\nAnswer: The Duchy of Normandy was ruled by the House of Normandy, a powerful feudal fief of medieval France. The House of Normandy was founded by William the Conqueror, who was the first Norman king of England.\nQuestion: What was the significance of the Norman conquest of England at the Battle of Hastings in 1066?\nAnswer: The Norman conquest of England at the Battle of Hastings in 1066 was a significant event in the history of England and Europe. It marked the beginning of the Norman conquest of England, which would last for several",
+    "clean_prediction": "The Norman conquest of England at the Battle of Hastings in 1066 was a significant event in the history of England and Europe. It marked the beginning of the Norman conquest of England, which would last for several"
+  },
+  {
+    "id": "5ad3a266604f3c001a3fea2b",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.\nQuestion: What principality did William the conquerer found?\nAnswer: William the Conqueror founded the Principality of Antioch in the Levant.",
+    "clean_prediction": "William the Conqueror founded the Principality of Antioch in the Levant."
+  },
+  {
+    "id": "56dde0379a695914005b9636",
+    "reference": {
+      "text": [
+        "Viking",
+        "Norseman, Viking",
+        "Norseman, Viking"
+      ],
+      "answer_start": [
+        341,
+        331,
+        331
+      ]
+    },
+    "prediction": "Context: The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".\nQuestion: What is the original meaning of the word Norman?\nAnswer: The word Norman is derived from the Old French word Normand, which means \"Northman\" or \"Northman-like\". The Old Norse word Nor\u00f0ma\u00f0r means \"Northman\" or \"Northman-like\".\nQuestion: What is the meaning of the word Normans in English?\nAnswer: The word Normans is derived from the Old French word Normand, which means \"Northman\" or \"Northman-like\". The Old Norse word Nor\u00f0ma\u00f0r means \"Northman\" or \"Northman-like\".\nQuestion: What is",
+    "clean_prediction": "The word Normans is derived from the Old French word Normand, which means \"Northman\" or \"Northman-like\". The Old Norse word Nor\u00f0ma\u00f0r means \"Northman\" or \"Northman-like\".\nQuestion: What is"
+  },
+  {
+    "id": "56dde0379a695914005b9637",
+    "reference": {
+      "text": [
+        "9th century",
+        "9th century",
+        "9th century"
+      ],
+      "answer_start": [
+        309,
+        309,
+        309
+      ]
+    },
+    "prediction": "Context: The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".\nQuestion: When was the Latin version of the word Norman first recorded?\nAnswer: The Latin version of the word Norman was first recorded in the 10th century.\nQuestion: When was the French version of the word Norman first recorded?\nAnswer: The French version of the word Norman was first recorded in the 12th century.\nQuestion: When was the English version of the word Norman first recorded?\nAnswer: The English version of the word Norman was first recorded in the 13th century.\nQuestion: What is the origin of the word \"Norman\" in English?\nAnswer: The word \"Norman\" in English is derived from the French version of the",
+    "clean_prediction": "The word \"Norman\" in English is derived from the French version of the"
+  },
+  {
+    "id": "5ad3ab70604f3c001a3feb89",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".\nQuestion: What name comes from the English words Normans/Normanz?\nAnswer: The name Normans/Normanz comes from the French words Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century).",
+    "clean_prediction": "The name Normans/Normanz comes from the French words Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century)."
+  },
+  {
+    "id": "5ad3ab70604f3c001a3feb8a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".\nQuestion: When was the French version of the word Norman first recorded?\nAnswer: The French version of the word Norman was first recorded in the 12th century.\nQuestion: When was the English version of the word Norman first recorded?\nAnswer: The English version of the word Norman was first recorded in the 13th century.\nQuestion: What is the difference between the French and English versions of the word Norman?\nAnswer: The French version of the word Norman is from the Old French normand, which is derived from the Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval",
+    "clean_prediction": "The French version of the word Norman is from the Old French normand, which is derived from the Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad75",
+    "reference": {
+      "text": [
+        "911",
+        "911",
+        "911"
+      ],
+      "answer_start": [
+        244,
+        244,
+        244
+      ]
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: When was the Duchy of Normandy founded?\nAnswer: The Duchy of Normandy was founded in 911 by King Charles III of West Francia and Rollo, a Viking leader who had conquered the region.\nQuestion: What was the treaty that established the Duchy of Normandy?\nAnswer: The treaty of Saint-Clair-sur-Epte was signed in 911 between King Charles III of West Francia and the famed Viking ruler Rollo, who had conquered the region.\nQuestion: What was the area that corresponded to the northern part of present-day Upper Normandy down to the river Seine?",
+    "clean_prediction": "The treaty of Saint-Clair-sur-Epte was signed in 911 between King Charles III of West Francia and the famed Viking ruler Rollo, who had conquered the region.\nQuestion: What was the area that corresponded to the northern part of present-day Upper Normandy down to the river Seine?"
+  },
+  {
+    "id": "56dde0ba66d3e219004dad76",
+    "reference": {
+      "text": [
+        "King Charles III",
+        "King Charles III",
+        "King Charles III"
+      ],
+      "answer_start": [
+        324,
+        324,
+        324
+      ]
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?\nAnswer: Rollo signed the treaty of Saint-Clair-sur-Epte with King Charles III of West Francia.\nQuestion: What was the area corresponding to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine?\nAnswer: The area corresponding to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine.",
+    "clean_prediction": "The area corresponding to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine."
+  },
+  {
+    "id": "56dde0ba66d3e219004dad77",
+    "reference": {
+      "text": [
+        "Seine",
+        "Epte",
+        "Seine"
+      ],
+      "answer_start": [
+        711,
+        524,
+        711
+      ]
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: What river originally bounded the Duchy\nAnswer: The Seine River\nQuestion: What was the first destructive incursion of Norse war bands into the rivers of France\nAnswer: The first incursion was in 911, when Rollo and his men attacked the town of Rouen.\nQuestion: What was the Duchy of Normandy established by the treaty of Saint-Clair-sur-Epte\nAnswer: The Duchy of Normandy was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo.\nQuestion: What",
+    "clean_prediction": "The Duchy of Normandy was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo.\nQuestion: What"
+  },
+  {
+    "id": "5ad3ad61604f3c001a3fec0d",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: when did Nors encampments ivolve into destructive incursions?\nAnswer: The first destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection",
+    "clean_prediction": "The first destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection"
+  },
+  {
+    "id": "5ad3ad61604f3c001a3fec0e",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: What treaty was established in the 9th century?\nAnswer: The treaty of Saint-Clair-sur-Epte, which established the Duchy of Normandy.\nQuestion: What was the area that corresponded to the northern part of present-day Upper Normandy down to the river Seine?\nAnswer: The area that corresponded to the northern part of present-day Upper Normandy down to the river Seine.",
+    "clean_prediction": "The area that corresponded to the northern part of present-day Upper Normandy down to the river Seine."
+  },
+  {
+    "id": "5ad3ad61604f3c001a3fec0f",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: Who established a treaty with King Charles the third of France?\nAnswer: Rollo, the Viking leader who founded the Duchy of Normandy, established a treaty with King Charles the third of France in 911.\nQuestion: What was the area corresponded to by the Duchy of Normandy?\nAnswer: The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine.",
+    "clean_prediction": "The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine."
+  },
+  {
+    "id": "5ad3ad61604f3c001a3fec10",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: What did the French promises to protect Rollo and his men from?\nAnswer: The French promises to protect Rollo and his men from further Viking incursions were made in exchange for their protection against further Viking incursions.\nQuestion: What was the Duchy of Normandy, and where did it begin?\nAnswer: The Duchy of Normandy was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic",
+    "clean_prediction": "The Duchy of Normandy was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic"
+  },
+  {
+    "id": "56dde1d966d3e219004dad8d",
+    "reference": {
+      "text": [
+        "Rollo",
+        "Rollo",
+        "Rollo"
+      ],
+      "answer_start": [
+        7,
+        7,
+        7
+      ]
+    },
+    "prediction": "Context: Before Rollo's arrival, its populations did not differ from Picardy or the \u00cele-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.\nQuestion: Who upon arriving gave the original viking settlers a common identity?\nAnswer: Rollo, the leader of the Viking raiders who settled in Normandy and parts of the Atlantic coast.\nQuestion: What was the population of Normandy before Rollo's arrival?\nAnswer: The population of Normandy before Rollo's arrival was divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula.\nQuestion: What were the traditional pagii where the population remained about the same with almost no foreign settlers?\nAnswer: The traditional pagii where the population remained about the same with",
+    "clean_prediction": "The traditional pagii where the population remained about the same with"
+  },
+  {
+    "id": "5ad3ae14604f3c001a3fec39",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Before Rollo's arrival, its populations did not differ from Picardy or the \u00cele-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.\nQuestion: When did Rollo begin to arrive in Normandy?\nAnswer: Rollo began to arrive in Normandy in the 880s, after his father's death.\nQuestion: What was the population of Normandy before Rollo's arrival?\nAnswer: The population of Normandy before Rollo's arrival was divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula.\nQuestion: What were the traditional pagii in Normandy?\nAnswer: The traditional pagii in Normandy were where the population remained about the same with almost no foreign settlers.",
+    "clean_prediction": "The traditional pagii in Normandy were where the population remained about the same with almost no foreign settlers."
+  },
+  {
+    "id": "5ad3ae14604f3c001a3fec3a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Before Rollo's arrival, its populations did not differ from Picardy or the \u00cele-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.\nQuestion: What Viking groups were conquered by Rollo?\nAnswer: Rollo's conquests were not limited to Normandy. He conquered the Danes in the north, the Norwegians in the west, and the Anglo-Saxons in the east.\nQuestion: What was the significance of Rollo's conquests in Normandy?\nAnswer: Rollo's conquests in Normandy were significant because they marked the beginning of the Norman conquest of England. Rollo's conquests also marked the beginning of the Norman domination of the Seine valley, which would eventually lead to the creation of the Duchy of Normandy.\nQuestion",
+    "clean_prediction": "Rollo's conquests in Normandy were significant because they marked the beginning of the Norman conquest of England. Rollo's conquests also marked the beginning of the Norman domination of the Seine valley, which would eventually lead to the creation of the Duchy of Normandy.\nQuestion"
+  },
+  {
+    "id": "56dde27d9a695914005b9651",
+    "reference": {
+      "text": [
+        "Catholicism",
+        "Catholicism",
+        "Catholicism"
+      ],
+      "answer_start": [
+        121,
+        121,
+        121
+      ]
+    },
+    "prediction": "Context: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What was the Norman religion?\nAnswer: The Norman religion was a blend of Christianity and Norse paganism. The Normans adopted the Catholic Church, which had been established by Charlemagne, and they also adopted the Norse paganism that had been practiced by their ancestors. The Normans were not entirely Christian, however, and they continued to practice Norse paganism in secret.\nQuestion: What was the Norman language?\nAnswer: The Norman language was a blend of Old Norse and the indigenous langue d'o\u00efl branch of Romance. It developed into the regional language that survives today.\nQuestion",
+    "clean_prediction": "The Norman language was a blend of Old Norse and the indigenous langue d'o\u00efl branch of Romance. It developed into the regional language that survives today.\nQuestion"
+  },
+  {
+    "id": "56dde27d9a695914005b9652",
+    "reference": {
+      "text": [
+        "north",
+        "the north",
+        "north"
+      ],
+      "answer_start": [
+        327,
+        323,
+        327
+      ]
+    },
+    "prediction": "Context: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What part of France were the Normans located?\nAnswer: The Normans were located in the north of France, primarily in the regions of Normandy, Brittany, and the Loire Valley.\nQuestion: What was the role of the Normans in the French Revolution?\nAnswer: The Normans played a significant role in the French Revolution, as they were instrumental in the overthrow of the monarchy and the establishment of the French Republic.\nQuestion: What was the impact of the Normans on French culture and society?\nAnswer: The Normans had a significant impact on French culture and society, as they brought with them a blend of Old Norse, Old",
+    "clean_prediction": "The Normans had a significant impact on French culture and society, as they brought with them a blend of Old Norse, Old"
+  },
+  {
+    "id": "5ad3af11604f3c001a3fec63",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What was replace with the Norse religion?\nAnswer: The Norse religion was replaced by Catholicism.\nQuestion: What was the blending of Norse and Frankish cultures?\nAnswer: The blending of Norse and Frankish cultures was synthesized into a unique Norman culture in the north of France.\nQuestion: What was the Norman language?\nAnswer: The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.",
+    "clean_prediction": "The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today."
+  },
+  {
+    "id": "5ad3af11604f3c001a3fec64",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What did maternal Old Norse traditions merge with?\nAnswer: The maternal Old Norse traditions of the Norse-speaking ruling class in Normandy, which included the adoption of the indigenous langue d'o\u00efl branch of Romance, were merged with Catholicism and the Gallo-Romance language of the local people to form a unique \"Norman\" culture in the north of France.\nQuestion: What was the role of the Norse-speaking ruling class in Normandy?\nAnswer: The Norse-speaking ruling class in Normandy was a powerful and influential group that controlled the region's economy,",
+    "clean_prediction": "The Norse-speaking ruling class in Normandy was a powerful and influential group that controlled the region's economy,"
+  },
+  {
+    "id": "5ad3af11604f3c001a3fec65",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What language replaced the Gallo-Romance language?\nAnswer: The Norman language, which was a blend of Old Norse and Gallo-Romance, replaced the Gallo-Romance language in the north of France.\nQuestion: What was the impact of the Norman conquest on the French language?\nAnswer: The Norman conquest had a significant impact on the French language. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today. The Norman language was a blend of Old Norse",
+    "clean_prediction": "The Norman conquest had a significant impact on the French language. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today. The Norman language was a blend of Old Norse"
+  },
+  {
+    "id": "56dde2fa66d3e219004dad9b",
+    "reference": {
+      "text": [
+        "fighting horsemen",
+        "fighting horsemen",
+        "fighting horsemen"
+      ],
+      "answer_start": [
+        428,
+        428,
+        428
+      ]
+    },
+    "prediction": "Context: The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.\nQuestion: What was one of the Norman's major exports?\nAnswer: The Normans exported fighting horsemen to Italy, France, and England.\nQuestion: What was the Normans' relationship with the French aristocracy?\nAnswer: The Normans worked the feudal doctrines of the French aristocracy into a functional hierarchical system in both Normandy and England.\nQuestion: What was the impact of the Normans' feudal doctrines on the French aristocracy?\nAnswer: The Normans worked the feudal doctrines of the French aristocracy into a functional hierarchical system in both Normandy and England.\nQuestion: What was the",
+    "clean_prediction": "The Normans worked the feudal doctrines of the French aristocracy into a functional hierarchical system in both Normandy and England.\nQuestion: What was the"
+  },
+  {
+    "id": "5ad3c626604f3c001a3ff011",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.\nQuestion: Who adopted the fuedel doctrines of the Normans?\nAnswer: The Normans adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England.",
+    "clean_prediction": "The Normans adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England."
+  },
+  {
+    "id": "5ad3c626604f3c001a3ff012",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.\nQuestion: What was one of the Norman's major imports?\nAnswer: The Normans brought with them the growing feudal doctrines of the rest of France, which they worked into a functional hierarchical system in both Normandy and England.\nQuestion: What was the impact of the Normans on the culture and ethnicity of the French aristocracy?\nAnswer: The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty.\nQuestion: What was the role of the Normans in the Crusades?\nAnswer: Many Normans",
+    "clean_prediction": "Many Normans"
+  },
+  {
+    "id": "5ad3c626604f3c001a3ff013",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.\nQuestion: Who's arristocracy eventually served as avid Crusaders?\nAnswer: The Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.",
+    "clean_prediction": "The Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart."
+  },
+  {
+    "id": "56de0f6a4396321400ee257f",
+    "reference": {
+      "text": [
+        "Seljuk Turks",
+        "the Pechenegs, the Bulgars, and especially the Seljuk Turks",
+        "the Seljuk Turks"
+      ],
+      "answer_start": [
+        161,
+        114,
+        157
+      ]
+    },
+    "prediction": "Context: Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.\nQuestion: Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?\nAnswer: The Normans' main enemy in Italy was the Byzantine Empire and Armenia. The Normans were primarily fighting against the Byzantines, who were the main enemy of the Lombards. The Byzantines were fighting against the Seljuk Turks, who were the main enemy of the Normans. The Normans were also fighting against the Bulgars, who were the main enemy of the Byzantines. The Normans were fighting against the Seljuk Turks, who were the main enemy of the Byzantines. The Normans were fighting against the Bulgars, who were the main",
+    "clean_prediction": "The Normans' main enemy in Italy was the Byzantine Empire and Armenia. The Normans were primarily fighting against the Byzantines, who were the main enemy of the Lombards. The Byzantines were fighting against the Seljuk Turks, who were the main enemy of the Normans. The Normans were also fighting against the Bulgars, who were the main enemy of the Byzantines. The Normans were fighting against the Seljuk Turks, who were the main enemy of the Byzantines. The Normans were fighting against the Bulgars, who were the main"
+  },
+  {
+    "id": "5ad3dbc6604f3c001a3ff3e9",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.\nQuestion: Who entered Italy soon after the Byzantine Empire?\nAnswer: The Normans entered Italy soon after the Byzantine Empire.\nQuestion: What were the Norman mercenaries first encouraged to do in Italy by the Lombards?\nAnswer: The Norman mercenaries were first encouraged to do so by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily.\nQuestion: What was the name of the Byzantine campaign that the Norman mercenaries fought in?\nAnswer: The name of the Byzantine campaign that the Norman mercenaries fought in was the Sicilian campaign of George Maniaces in",
+    "clean_prediction": "The name of the Byzantine campaign that the Norman mercenaries fought in was the Sicilian campaign of George Maniaces in"
+  },
+  {
+    "id": "5ad3dbc6604f3c001a3ff3ea",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.\nQuestion: Who did the Normans fight in Italy?\nAnswer: The Normans fought in Italy against the Byzantines, Bulgars, Seljuk Turks, and the Lombards.\nQuestion: What was the role of the Normans in the Byzantine Empire?\nAnswer: The Normans fought in the Byzantine Empire against the Byzantines, Bulgars, Seljuk Turks, and the Lombards.\nQuestion: What was the role of the Normans in Sicily?\nAnswer: The Normans fought in Sicily against the Byzantines, Bulgars, Seljuk Turks, and the Lombards.\nQuestion:",
+    "clean_prediction": "The Normans fought in Sicily against the Byzantines, Bulgars, Seljuk Turks, and the Lombards.\nQuestion:"
+  },
+  {
+    "id": "5ad3dbc6604f3c001a3ff3eb",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.\nQuestion: Who did the Normans encourage to come to the south?\nAnswer: The Normans encouraged the Lombards to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340.\nQuestion: What is the debate about whether the Normans in Greek service were from Norman Italy or not?\nAnswer: The debate about whether the Normans in Greek service were from Norman Italy is still ongoing. It now seems likely only a few came from there.",
+    "clean_prediction": "The debate about whether the Normans in Greek service were from Norman Italy is still ongoing. It now seems likely only a few came from there."
+  },
+  {
+    "id": "5ad3dbc6604f3c001a3ff3ec",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.\nQuestion: During what campaign did the Vargian and Lombard fight?\nAnswer: The Vargian and Lombard fought in the Sicilian campaign of George Maniaces in 1038\u201340.\nQuestion: What was the role of the Normans in the Sicilian campaign of George Maniaces?\nAnswer: The Normans were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340.\nQuestion: What was the name of the Byzantine campaign that the Normans fought in Sicily?\nAnswer: The Sicilian campaign of George Maniaces in 1038",
+    "clean_prediction": "The Sicilian campaign of George Maniaces in 1038"
+  },
+  {
+    "id": "56de0ffd4396321400ee258d",
+    "reference": {
+      "text": [
+        "1050s",
+        "in the 1050s",
+        "in the 1050s"
+      ],
+      "answer_start": [
+        85,
+        78,
+        78
+      ]
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: When did Herve serve as a Byzantine general?\nAnswer: Herv\u00e9 served as a Byzantine general in the 1050s.\nQuestion: Who were some of the other Norman mercenaries serving as far away as Trebizond and Georgia?\nAnswer: Some of the other Norman mercenaries serving as far away as Trebizond and Georgia were:\n- Herv\u00e9\n- Robert Crispin\n- Roussel de Bailleul\n- Guillaume de Lusignan\n- Robert de Courtenay\n- William de Warenne\n- William de Warenne, the Earl of Surrey\n- William de Warenne, the Earl of",
+    "clean_prediction": "Some of the other Norman mercenaries serving as far away as Trebizond and Georgia were:\n- Herv\u00e9\n- Robert Crispin\n- Roussel de Bailleul\n- Guillaume de Lusignan\n- Robert de Courtenay\n- William de Warenne\n- William de Warenne, the Earl of Surrey\n- William de Warenne, the Earl of"
+  },
+  {
+    "id": "56de0ffd4396321400ee258e",
+    "reference": {
+      "text": [
+        "1060s",
+        "In the 1060s",
+        "In the 1060s"
+      ],
+      "answer_start": [
+        292,
+        285,
+        285
+      ]
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: When did Robert Crispin go up against the Turks?\nAnswer: Robert Crispin led the Normans of Edessa against the Turks in the 1060s.\nQuestion: Who was Roussel de Bailleul and what was his attempt to carve out an independent state in Asia Minor?\nAnswer: Roussel de Bailleul was a Norman knight who tried to carve out an independent state in Asia Minor with support from the local population. He was stopped by the Byzantine general Alexius Komnenos.",
+    "clean_prediction": "Roussel de Bailleul was a Norman knight who tried to carve out an independent state in Asia Minor with support from the local population. He was stopped by the Byzantine general Alexius Komnenos."
+  },
+  {
+    "id": "56de0ffd4396321400ee258f",
+    "reference": {
+      "text": [
+        "Alexius Komnenos",
+        "Alexius Komnenos",
+        "Alexius Komnenos"
+      ],
+      "answer_start": [
+        522,
+        522,
+        522
+      ]
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: Who ruined Roussel de Bailleul's plans for an independent state?\nAnswer: The Byzantine general Alexius Komnenos.\nContext: Roussel de Bailleul was a Norman mercenary who served as a general in the Byzantine army. He was born in Normandy in 1020 and was a nephew of the famous Norman knight, Robert Guiscard. Roussel was a skilled soldier and a skilled diplomat. He was known for his bravery and his ability to negotiate with the Byzantine emperor, Alexios I Komnenos.\nQuestion: What was Roussel de Bailleul's role in negoti",
+    "clean_prediction": "The Byzantine general Alexius Komnenos.\nContext: Roussel de Bailleul was a Norman mercenary who served as a general in the Byzantine army. He was born in Normandy in 1020 and was a nephew of the famous Norman knight, Robert Guiscard. Roussel was a skilled soldier and a skilled diplomat. He was known for his bravery and his ability to negotiate with the Byzantine emperor, Alexios I Komnenos.\nQuestion: What was Roussel de Bailleul's role in negoti"
+  },
+  {
+    "id": "5ad3de8b604f3c001a3ff467",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: Who was the first Byzantine mercenary to serve with the Normans?\nAnswer: Herv\u00e9, a Norman mercenary, served as a general under the Byzantine duke Isaac Komnenos in the 1050s.\nQuestion: What was the role of the Normans in the Byzantine army during the 1060s?\nAnswer: The Normans of Edessa were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. They were involved in the defense of the Byzantine Empire against the Turks.\nQuestion: Who was the Byzantine general who stopped Robert Crispin'",
+    "clean_prediction": "The Normans of Edessa were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. They were involved in the defense of the Byzantine Empire against the Turks.\nQuestion: Who was the Byzantine general who stopped Robert Crispin'"
+  },
+  {
+    "id": "5ad3de8b604f3c001a3ff468",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: When did Herve serve as a Norman general?\nAnswer: Herv\u00e9 served as a Norman general in the 1050s.\nQuestion: Who were the Norman mercenaries serving as far away as Trebizond and Georgia?\nAnswer: The Norman mercenaries serving as far away as Trebizond and Georgia were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos.",
+    "clean_prediction": "The Norman mercenaries serving as far away as Trebizond and Georgia were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos."
+  },
+  {
+    "id": "5ad3de8b604f3c001a3ff469",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: Who ruined Alexius Komnenos plans for an independent state?\nAnswer: The Byzantine general Alexius Komnenos.\nQuestion: What was the Byzantine general Alexius Komnenos' plan for an independent state?\nAnswer: Alexius Komnenos planned to carve out an independent state in Asia Minor with the help of the local population. He was stopped by the Normans of Edessa, led by Robert Crispin, who tried to carve out an independent state in Asia Minor.\nQuestion: What was the name of the Byzantine general who tried to carve out an independent state in Asia Minor?\nAnswer: The Byzantine general who tried to car",
+    "clean_prediction": "The Byzantine general who tried to car"
+  },
+  {
+    "id": "5ad3de8b604f3c001a3ff46a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.\nQuestion: When did Herve go up against the Turks?\nAnswer: Herv\u00e9 went up against the Turks in 1051, when he was sent to the Byzantine capital Constantinople to help the Byzantine emperor, Basil II, defeat the Seljuk Turks. Herv\u00e9 was a skilled fighter and was able to take part in several battles, including the Battle of Manzikert in 1071.\nQuestion: What was the role of Herv\u00e9 in the Byzantine army?\nAnswer: Herv\u00e9 was a skilled fighter and was able to take part in several battles, including the Battle of Manzikert in",
+    "clean_prediction": "Herv\u00e9 was a skilled fighter and was able to take part in several battles, including the Battle of Manzikert in"
+  },
+  {
+    "id": "56de10b44396321400ee2593",
+    "reference": {
+      "text": [
+        "Afranji",
+        "Afranji",
+        "Afranji"
+      ],
+      "answer_start": [
+        539,
+        539,
+        539
+      ]
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: What was the name of the Norman castle?\nAnswer: Afranji, meaning \"Franks\" in Latin.\nQuestion: Who were the 8,000 Normans led by Raimbaud?\nAnswer: They were former Franks led by Raimbaud, a Norman.\nQuestion: What was the name of the castle in Amalfi and Tarsus that was known to have been built by Italo-Normans?\nAnswer: Afranji, meaning \"Franks\" in Latin.",
+    "clean_prediction": "Afranji, meaning \"Franks\" in Latin."
+  },
+  {
+    "id": "56de10b44396321400ee2594",
+    "reference": {
+      "text": [
+        "Oursel",
+        "Oursel",
+        "Oursel"
+      ],
+      "answer_start": [
+        256,
+        256,
+        256
+      ]
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: Who was the leader when the Franks entered the Euphrates valley?\nAnswer: Oursel, a Norman.\nQuestion: What was the name of the castle that the Normans built in the Euphrates valley?\nAnswer: Afranji, meaning \"Franks.\"\nQuestion: What was the name of the castle that the Normans built in the Taurus Mountains?\nAnswer: Taurus, meaning \"Taurus Mountains.\"\nQuestion: What was the name of the castle that the Normans built in the upper Euphrates valley?\nAnswer: Afranji, meaning \"Franks.\"\nQuestion: What was the name of the castle that the Normans built in",
+    "clean_prediction": "Afranji, meaning \"Franks.\"\nQuestion: What was the name of the castle that the Normans built in"
+  },
+  {
+    "id": "56de10b44396321400ee2595",
+    "reference": {
+      "text": [
+        "Turkish forces",
+        "Turkish forces",
+        "Turkish forces"
+      ],
+      "answer_start": [
+        20,
+        20,
+        20
+      ]
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: Who did the Normans team up with in Anatolia?\nAnswer: The Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans",
+    "clean_prediction": "The Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans"
+  },
+  {
+    "id": "5ad3e96b604f3c001a3ff689",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: Who joined Norman forces in the destruction of the Armenians?\nAnswer: Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains.\nQuestion: What was the name of the castle that Raimbaud led Normans into in northern Syria?\nAnswer: Afranji, meaning \"Franks,\" was the name of the castle that Raimbaud led Normans into in northern Syria.\nQuestion: Who led a force of \"Franks\" into the upper",
+    "clean_prediction": "Afranji, meaning \"Franks,\" was the name of the castle that Raimbaud led Normans into in northern Syria.\nQuestion: Who led a force of \"Franks\" into the upper"
+  },
+  {
+    "id": "5ad3e96b604f3c001a3ff68a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: Who did the Turks take up service with?\nAnswer: The Turks took up service with the Normans in the far eastern Anatolian states of Sassoun and Taron, and later with the Armenian state further south in Cilicia and the Taurus Mountains.\nQuestion: What was the name of the castle that the Normans lent their ethnicity to?\nAnswer: The name of the castle that the Normans lent their ethnicity to was Afranji, meaning \"Franks.\"\nQuestion: What was the known trade between Amalfi and Antioch and between Bari and Tarsus related to?\nAnswer: The",
+    "clean_prediction": "The"
+  },
+  {
+    "id": "5ad3e96b604f3c001a3ff68b",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: What Frank led Norman forces?\nAnswer: Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria.\nQuestion: What was the name of the castle built by Raimbaud, the leader of the Normans in Syria?\nAnswer: Afranji, meaning \"Franks.\"\nQuestion: What was the known trade between Amalfi and Antioch and between Bari and Tarsus?\nAnswer: Trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and",
+    "clean_prediction": "Trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and"
+  },
+  {
+    "id": "5ad3e96b604f3c001a3ff68c",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.\nQuestion: Where did Oursel lead the Franks?\nAnswer: Oursel led the Franks into the upper Euphrates valley in northern Syria.\nQuestion: What was the name of the castle that the Italo-Normans built in Amalfi?\nAnswer: The castle was called Afranji.\nQuestion: What was the name of the castle that the Italo-Normans built in Bari?\nAnswer: The castle was called Tarsus.\nQuestion: What was the name of the castle that the Italo-Normans built in Tarsus?\nQuestion: What was the name of the castle that the Italo-N",
+    "clean_prediction": "The castle was called Tarsus.\nQuestion: What was the name of the castle that the Italo-Normans built in Tarsus?\nQuestion: What was the name of the castle that the Italo-N"
+  },
+  {
+    "id": "56de11154396321400ee25aa",
+    "reference": {
+      "text": [
+        "Norman mercenary",
+        "an Italo-Norman named Raoul",
+        "descended from an Italo-Norman named Raoul"
+      ],
+      "answer_start": [
+        45,
+        217,
+        202
+      ]
+    },
+    "prediction": "Context: Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who served under George Maniaces in the Sicilian expedition of 1038.\nQuestion: What were the origins of the Raouliii family?\nAnswer: The Raouliii family was descended from an Italo-Norman named Raoul, who was born in the 11th century in the town of Ravenna, Italy. Raoul was a soldier in the service of the Norman king William the Conqueror, and he was captured by the Normans during the Norman Conquest of England in 1066. Raoul was later released by the Normans and returned to Italy, where he married a local noblewoman named Isabella.\nIsabella was the daughter of a powerful nobleman named Gualtiero, and Ra",
+    "clean_prediction": "The Raouliii family was descended from an Italo-Norman named Raoul, who was born in the 11th century in the town of Ravenna, Italy. Raoul was a soldier in the service of the Norman king William the Conqueror, and he was captured by the Normans during the Norman Conquest of England in 1066. Raoul was later released by the Normans and returned to Italy, where he married a local noblewoman named Isabella.\nIsabella was the daughter of a powerful nobleman named Gualtiero, and Ra"
+  },
+  {
+    "id": "5ad3ea79604f3c001a3ff6e9",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who served under George Maniaces in the Sicilian expedition of 1038.\nQuestion: Where were several Norman mercenary familes originate from?\nAnswer: Several Norman mercenary families originated from the Italo-Norman raoulii, petraliphae, and maniakates clans.",
+    "clean_prediction": "Several Norman mercenary families originated from the Italo-Norman raoulii, petraliphae, and maniakates clans."
+  },
+  {
+    "id": "5ad3ea79604f3c001a3ff6ea",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who served under George Maniaces in the Sicilian expedition of 1038.\nQuestion: Who did the Normans serve under in the 10th century?\nAnswer: The Normans served under the Byzantine emperor, Manuel I Komnenos, who was a descendant of the Comnenian dynasty.\nQuestion: What was the role of the Normans in the Byzantine Empire during the 10th century?\nAnswer: The Normans served as mercenaries for the Byzantine Empire during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors.\nQuestion: What was the role of the Raoulii, Petraliphae, and Maniakates in the Byzantine",
+    "clean_prediction": "The Normans served as mercenaries for the Byzantine Empire during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors.\nQuestion: What was the role of the Raoulii, Petraliphae, and Maniakates in the Byzantine"
+  },
+  {
+    "id": "5ad3ea79604f3c001a3ff6eb",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who served under George Maniaces in the Sicilian expedition of 1038.\nQuestion: What expedition did George Maniaces lead in the 10th century?\nAnswer: George Maniaces led an expedition to Sicily in 1038.\nQuestion: What was the purpose of the expedition?\nAnswer: The purpose of the expedition was to capture the Sicilian city of Palermo and to establish a Byzantine presence in the Mediterranean.\nQuestion: What was the outcome of the expedition?\nAnswer: The expedition was a failure. The Byzantines were unable to capture Palermo and were forced to retreat.\nQuestion: What was the significance of the Raoulii, Petraliphae, and Maniakates in the context of the By",
+    "clean_prediction": "The expedition was a failure. The Byzantines were unable to capture Palermo and were forced to retreat.\nQuestion: What was the significance of the Raoulii, Petraliphae, and Maniakates in the context of the By"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bc",
+    "reference": {
+      "text": [
+        "Robert Guiscard",
+        "Robert Guiscard",
+        "Robert Guiscard"
+      ],
+      "answer_start": [
+        0,
+        0,
+        0
+      ]
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: What was the name of the count of Apulia \nAnswer: Robert Guiscard\nQuestion: Who was Robert Guiscard's vassal before he became count of Apulia?\nAnswer: Pope Gregory VII\nQuestion: What was the name of the Byzantine emperor who accepted the call of the Albanian forces to join forces against the Normans?\nAnswer: Alexius I Comnenus\nQuestion: What was the name of the Albanian force that could not take part in the ensuing battle because it had started before their arrival?\nAnswer: Venetian fleet\nQuestion: What was the name of the high Albanian official named Comiscort",
+    "clean_prediction": "Venetian fleet\nQuestion: What was the name of the high Albanian official named Comiscort"
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5bd",
+    "reference": {
+      "text": [
+        "1082",
+        "February 1082",
+        "February 1082"
+      ],
+      "answer_start": [
+        1315,
+        1306,
+        1306
+      ]
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: When did Dyrrachium  fall to the Normans?\nAnswer: Dyrrachium fell to the Normans in 1085.",
+    "clean_prediction": "Dyrrachium fell to the Normans in 1085."
+  },
+  {
+    "id": "56de148dcffd8e1900b4b5be",
+    "reference": {
+      "text": [
+        "30,000",
+        "30,000",
+        "30,000"
+      ],
+      "answer_start": [
+        492,
+        492,
+        492
+      ]
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: How many men were in Robert's army?\nAnswer: Robert's army was estimated to be around 30,000 men, including 10,000 cavalry and 20,000 infantry.\nQuestion: What was the purpose of Robert's campaign against the Byzantines?\nAnswer: Robert's campaign against the Byzantines was aimed at conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church.\nQuestion: Who was Robert's vassal before becoming a count of Apulia?\nAnswer: Robert Guiscard",
+    "clean_prediction": "Robert Guiscard"
+  },
+  {
+    "id": "5ad3ed26604f3c001a3ff799",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: Who ultimatly drove the Byzantines out of Europe?\nAnswer: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy.",
+    "clean_prediction": "Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy."
+  },
+  {
+    "id": "5ad3ed26604f3c001a3ff79a",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: What pope opposed Roberts campaign?\nAnswer: Pope Gregory VII opposed Robert's campaign.\nQuestion: What was the outcome of Robert's campaign against the Byzantines?\nAnswer: Robert's campaign against the Byzantines resulted in the defeat of the Byzantines and the capture of Dyrrachium.",
+    "clean_prediction": "Robert's campaign against the Byzantines resulted in the defeat of the Byzantines and the capture of Dyrrachium."
+  },
+  {
+    "id": "5ad3ed26604f3c001a3ff79b",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: What fell to the Normans in the 10th century?\nAnswer: The Normans conquered southern Italy, including Naples, Sicily, and the Balkan peninsula, and established a powerful kingdom in the region.\nQuestion: What was the outcome of the battle between the Normans and the Byzantines in 1081?\nAnswer: The Normans were defeated by the Byzantines in the battle of Dyrrachium in 1081.\nQuestion: What was the name of the Albanian force that joined the Byzantines against the Normans in 1081?\nAnswer: The Albanian force that joined",
+    "clean_prediction": "The Albanian force that joined"
+  },
+  {
+    "id": "5ad3ed26604f3c001a3ff79c",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: How many men did Roberts army face?\nAnswer: Roberts army faced 30,000 men.\nQuestion: What was the name of the Byzantine general who led the Byzantine forces against the Normans?\nAnswer: The Byzantine general who led the Byzantine forces against the Normans was Comiscortes.\nQuestion: What was the name of the Albanian force that Robert Guiscard faced in the battle of Dyrrachium?\nAnswer: The Albanian force that Robert Guiscard faced in the battle of Dyrrachium was led by Comiscortes.\nQuestion: What was the name of the By",
+    "clean_prediction": "The Albanian force that Robert Guiscard faced in the battle of Dyrrachium was led by Comiscortes.\nQuestion: What was the name of the By"
+  },
+  {
+    "id": "56de15104396321400ee25b7",
+    "reference": {
+      "text": [
+        "Deabolis",
+        "Deabolis",
+        "Deabolis"
+      ],
+      "answer_start": [
+        302,
+        718,
+        718
+      ]
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Where did the Normans and Byzantines sign the peace treaty?\nAnswer: The peace treaty was signed in Deabolis, a city in the region of Dibra, in 1107.\nQuestion: What was the purpose of the Normans' campaign in the region of Dibra?\nAnswer: The purpose of the Normans' campaign in the region of Dibra was to secure the Arbanon passes and open their way to Dibra.\nQuestion: What was the outcome of the Normans' campaign in the region of Dibra?\nAnswer: The Normans secured the Arbanon passes and opened their way to Dibra.\nQuestion",
+    "clean_prediction": "The Normans secured the Arbanon passes and opened their way to Dibra.\nQuestion"
+  },
+  {
+    "id": "56de15104396321400ee25b8",
+    "reference": {
+      "text": [
+        "Bohemond",
+        "Bohemond",
+        "Bohemond"
+      ],
+      "answer_start": [
+        79,
+        79,
+        79
+      ]
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who was Robert's son?\nAnswer: Bohemond, Robert's son.\nQuestion: What was the purpose of Bohemond's campaign in Valona?\nAnswer: Bohemond's campaign in Valona was to secure the passage to Dibra and open the way to the Byzantine capital.\nQuestion: What was the purpose of the Normans' siege of Dyrrachium?\nAnswer: The Normans' siege of Dyrrachium was to secure the passage to Dibra and open the way to the Byzantine capital.\nQuestion: What was the purpose of Bohemond's campaign in",
+    "clean_prediction": "The Normans' siege of Dyrrachium was to secure the passage to Dibra and open the way to the Byzantine capital.\nQuestion: What was the purpose of Bohemond's campaign in"
+  },
+  {
+    "id": "56de15104396321400ee25b9",
+    "reference": {
+      "text": [
+        "Deabolis",
+        "the river Deabolis",
+        "Deabolis"
+      ],
+      "answer_start": [
+        302,
+        292,
+        302
+      ]
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: What river was Petrela located by?\nAnswer: Petrela was located by the river Deabolis.\nQuestion: What was the name of the Albanian city that Bohemond sided with the Normans against the Byzantines?\nAnswer: Kanina was the Albanian city that Bohemond sided with the Normans against the Byzantines.\nQuestion: What was the name of the city that Bohemond besieged in Valona?\nAnswer: Gllavenica was the name of the city that Bohemond besieged in Valona.\nQuestion: What was the name of the city that Bohemond s",
+    "clean_prediction": "Gllavenica was the name of the city that Bohemond besieged in Valona.\nQuestion: What was the name of the city that Bohemond s"
+  },
+  {
+    "id": "5ad3ee2d604f3c001a3ff7e1",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who did the Normans besiege in the 11th century?\nAnswer: The Normans besieged Dyrrachium, the capital of the Byzantine Empire, in 1107.\nQuestion: What was the purpose of the Normans' siege of Dyrrachium?\nAnswer: The purpose of the Normans' siege of Dyrrachium was to secure the passage of supplies and to open the Arbanon passes.\nQuestion: What was the outcome of the Normans' siege of Dyrrachium?\nAnswer: The Normans' siege of Dyrrachium was unsuccessful. The Byzantine army, under Bohem",
+    "clean_prediction": "The Normans' siege of Dyrrachium was unsuccessful. The Byzantine army, under Bohem"
+  },
+  {
+    "id": "5ad3ee2d604f3c001a3ff7e2",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who did Robert lead agains Dyrrachium in 1107?\nAnswer: Robert led the Normans agains Dyrrachium in 1107.\nQuestion: What was the outcome of the battle between the Normans and the Byzantines in 1107?\nAnswer: The Normans were defeated by the Byzantines in 1107.\nQuestion: Who was Bohemond, Robert's son, and what was his role in the Normans' campaigns?\nAnswer: Bohemond, Robert's son, was the commander of the Normans' campaigns.\nQuestion: What was the outcome of the siege of",
+    "clean_prediction": "Bohemond, Robert's son, was the commander of the Normans' campaigns.\nQuestion: What was the outcome of the siege of"
+  },
+  {
+    "id": "5ad3ee2d604f3c001a3ff7e3",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who was Bohemond's son?\nAnswer: Bohemond was the son of Robert I, Count of Antioch.\nQuestion: What was the purpose of Bohemond's campaign against Dyrrachium?\nAnswer: Bohemond's campaign against Dyrrachium was to secure the passage to the city of Dibra and open the way to the Byzantine Empire.\nQuestion: What was the outcome of Bohemond's campaign against Dyrrachium?\nAnswer: Bohemond's campaign against Dyrrachium was a failure. The Byzantine Empire was able to defend the city and the Normans were forced",
+    "clean_prediction": "Bohemond's campaign against Dyrrachium was a failure. The Byzantine Empire was able to defend the city and the Normans were forced"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c2",
+    "reference": {
+      "text": [
+        "1185",
+        "in 1185",
+        "1185"
+      ],
+      "answer_start": [
+        86,
+        83,
+        86
+      ]
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: When did the Normans attack Dyrrachium?\nAnswer: The Normans attacked Dyrrachium in 1185, during the Third Crusade.\nQuestion: What was the reason for the betrayal of high Byzantine officials?\nAnswer: The betrayal of high Byzantine officials was due to the fact that they were involved in a plot to assassinate the Byzantine Emperor, Manuel I Comnenus.\nQuestion: What was the outcome of the Third Crusade?\nAnswer: The Third Crusade was a military campaign led by the Catholic Church to restore the Byzantine Empire to its former glory. The Crusade",
+    "clean_prediction": "The Third Crusade was a military campaign led by the Catholic Church to restore the Byzantine Empire to its former glory. The Crusade"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c3",
+    "reference": {
+      "text": [
+        "Dyrrachium",
+        "Dyrrachium",
+        "Dyrrachium"
+      ],
+      "answer_start": [
+        125,
+        205,
+        205
+      ]
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: What was the naval base called?\nAnswer: Dyrrachium (also known as Dyrrachium Egnatia) was a major naval base located on the Adriatic Sea, about 100 km north of the city of Corfu.\nQuestion: What was the reason for the fall of Dyrrachium?\nAnswer: The fall of Dyrrachium was due to the betrayal of high Byzantine officials.\nQuestion: What was the impact of the fall of Dyrrachium on the Byzantine Empire?\nAnswer: The fall of Dyrrachium was a significant blow to the Byzantine Empire, as it weak",
+    "clean_prediction": "The fall of Dyrrachium was a significant blow to the Byzantine Empire, as it weak"
+  },
+  {
+    "id": "56de1563cffd8e1900b4b5c4",
+    "reference": {
+      "text": [
+        "the Adriatic",
+        "the Adriatic",
+        "Adriatic"
+      ],
+      "answer_start": [
+        257,
+        257,
+        261
+      ]
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: Where was Dyrrachium located?\nAnswer: Dyrrachium was located on the Adriatic coast of Greece, in the region of Epirus.\nQuestion: What was the reason for the fall of Dyrrachium?\nAnswer: The fall of Dyrrachium was due to the betrayal of high Byzantine officials.\nQuestion: What was the impact of the fall of Dyrrachium on the Byzantine Empire?\nAnswer: The fall of Dyrrachium had a significant impact on the Byzantine Empire. It weakened the Byzantine navy and weakened the Byzantine state's ability to defend its territ",
+    "clean_prediction": "The fall of Dyrrachium had a significant impact on the Byzantine Empire. It weakened the Byzantine navy and weakened the Byzantine state's ability to defend its territ"
+  },
+  {
+    "id": "5ad3f028604f3c001a3ff823",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: Who attacked Dyrrachium in the 11th century?\nAnswer: The Byzantine Empire was attacked by a large Norman army in 1185, which led to the fall of Dyrrachium.\nQuestion: What was the reason for the fall of Dyrrachium in 1185?\nAnswer: The fall of Dyrrachium was due to the betrayal of high Byzantine officials.\nQuestion: What was the impact of the fall of Dyrrachium on the Byzantine Empire?\nAnswer: The fall of Dyrrachium had a significant impact on the Byzantine Empire. It weakened the Byzantine navy",
+    "clean_prediction": "The fall of Dyrrachium had a significant impact on the Byzantine Empire. It weakened the Byzantine navy"
+  },
+  {
+    "id": "5ad3f028604f3c001a3ff824",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: Who betrayed the Normans?\nAnswer: The betrayal of high Byzantine officials was carried out by the Byzantine general John Ducas, who was later executed by the Byzantine emperor.\nQuestion: What was the outcome of the third attack on Dyrrachium?\nAnswer: The third attack on Dyrrachium was a disaster for the Byzantine Empire, as it was defeated by the Normans, who captured the city and its fleet.\nQuestion: What was the significance of the Byzantine Empire's defeat in the third attack on Dyrrachium?\nAnswer: The Byzantine Empire's defeat",
+    "clean_prediction": "The Byzantine Empire's defeat"
+  },
+  {
+    "id": "5ad3f028604f3c001a3ff825",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.\nQuestion: What naval base fell to the Normans?\nAnswer: Dyrrachium, one of the most important naval bases of the Adriatic, fell to Byzantine hands.\nQuestion: What was the reason for the decline of Byzantine state-of-affairs?\nAnswer: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials.\nQuestion: What was the significance of Dyrrachium in Byzantine naval history?\nAnswer: Dyr",
+    "clean_prediction": "Dyr"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c8",
+    "reference": {
+      "text": [
+        "King Ethelred II",
+        "Ethelred II",
+        "King Ethelred II"
+      ],
+      "answer_start": [
+        360,
+        365,
+        360
+      ]
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: Who did Emma Marry?\nAnswer: Emma married Sweyn Forkbeard, the son of King Cnut the Great.\nQuestion: What was the reason for Emma's flight from England?\nAnswer: Emma fled from England because of the invasion of Sweyn Forkbeard, who was the son of King Cnut the Great.\nQuestion: What was the relationship between the Normans and the English?\nAnswer: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel.",
+    "clean_prediction": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel."
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5c9",
+    "reference": {
+      "text": [
+        "Duke Richard II",
+        "Duke Richard II",
+        "Duke Richard II"
+      ],
+      "answer_start": [
+        327,
+        327,
+        327
+      ]
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: Who was Emma's brother?\nAnswer: Her brother was Duke Richard II of Normandy.\nQuestion: What was the reason for Ethelred's flight to Normandy?\nAnswer: Ethelred fled to Normandy in 1013 because he was forced from his kingdom by Sweyn Forkbeard.\nQuestion: What was the relationship between the Normans and the English that resulted in closer ties of blood through the marriage of Emma and King Ethelred II?\nAnswer: The Normans were in contact with England from an early date, and their original Viking brethren still ravaged the English coasts. This relationship",
+    "clean_prediction": "The Normans were in contact with England from an early date, and their original Viking brethren still ravaged the English coasts. This relationship"
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5ca",
+    "reference": {
+      "text": [
+        "Normandy",
+        "Normandy",
+        "Normandy"
+      ],
+      "answer_start": [
+        423,
+        423,
+        423
+      ]
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: To where did Ethelred flee?\nAnswer: To Normandy.\nQuestion: What was the reason for Ethelred's flight to Normandy?\nAnswer: He fled to Normandy because he was forced from his kingdom by Sweyn Forkbeard.\nQuestion: What was the relationship between the Normans and the English that led to the flight of Ethelred?\nAnswer: The relationship between the Normans and the English was influenced by the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England.",
+    "clean_prediction": "The relationship between the Normans and the English was influenced by the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England."
+  },
+  {
+    "id": "56de15dbcffd8e1900b4b5cb",
+    "reference": {
+      "text": [
+        "Sweyn Forkbeard",
+        "Sweyn Forkbeard",
+        "Sweyn Forkbeard"
+      ],
+      "answer_start": [
+        480,
+        480,
+        480
+      ]
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: Who kicked Ethelred out?\nAnswer: Sweyn Forkbeard, the Danish king who had been Ethelred's ally in England.\nQuestion: What was the reason for Ethelred's flight to Normandy?\nAnswer: He was forced out of England by Sweyn Forkbeard, who had been his ally in England.\nQuestion: What was the relationship between the Normans and the English after the flight of Ethelred?\nAnswer: The Normans were in contact with England from an early date, but their original Viking brethren still ravaged the English coasts. This relationship eventually produced",
+    "clean_prediction": "The Normans were in contact with England from an early date, but their original Viking brethren still ravaged the English coasts. This relationship eventually produced"
+  },
+  {
+    "id": "5ad3f187604f3c001a3ff86f",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: Who married Cnut the Great?\nAnswer: Cnut the Great married Emma, sister of Duke Richard II of Normandy, in 1012.\nQuestion: What was the relationship between the Normans and the English after Cnut's conquest of England?\nAnswer: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England.",
+    "clean_prediction": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England."
+  },
+  {
+    "id": "5ad3f187604f3c001a3ff870",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: When did Richard II flee to Normandy?\nAnswer: Richard II fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard.\nQuestion: What was the relationship between the Normans and the English that led to the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England?\nAnswer: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the",
+    "clean_prediction": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the"
+  },
+  {
+    "id": "5ad3f187604f3c001a3ff871",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.\nQuestion: Who's major ports were controlled by the English?\nAnswer: The English Channel was a major sea route for the Normans, and their major ports were controlled by the English. The Normans established their own ports in England, such as Harfleur, which became the main port for the Normans in England.\nQuestion: What was the relationship between the Normans and the English?\nAnswer: The Normans and the English were in contact with each other from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through",
+    "clean_prediction": "The Normans and the English were in contact with each other from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d0",
+    "reference": {
+      "text": [
+        "Harthacnut",
+        "Harthacnut",
+        "Harthacnut"
+      ],
+      "answer_start": [
+        115,
+        115,
+        115
+      ]
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: Who was Edward the Confessor's half-brother?\nAnswer: Harthacnut was the son of Edward the Confessor and his second wife, Edith of Wessex. He was born in 1012 and died in 1042.\nQuestion: What was the Norman-educated mind of Edward the Confessor?\nAnswer: Edward the Confessor was educated in the Norman language and culture. He was a skilled administrator and military leader, and he was also a patron of the arts.\nQuestion: What was the attitudes of Edward the Confessor towards the Norman-educated mind?\nAnswer: Edward the Confessor was a supp",
+    "clean_prediction": "Edward the Confessor was a supp"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d1",
+    "reference": {
+      "text": [
+        "1041",
+        "in 1041",
+        "1041"
+      ],
+      "answer_start": [
+        71,
+        68,
+        71
+      ]
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: When did Edward return?\nAnswer: Edward returned to England in 1042.\nQuestion: What was the purpose of Edward's visit to Normandy?\nAnswer: Edward's visit to Normandy was to secure the support of the French king, Louis VI, in his struggle against the English.\nQuestion: What was the significance of the Norman-educated mind of Edward the Confessor?\nAnswer: The Norman-educated mind of Edward the Confessor was a key factor in the development of English society and culture.\nQuestion: What was the significance of the Norman cavalry force established by Edward the Confessor?\nAnswer",
+    "clean_prediction": "The Norman-educated mind of Edward the Confessor was a key factor in the development of English society and culture.\nQuestion: What was the significance of the Norman cavalry force established by Edward the Confessor?\nAnswer"
+  },
+  {
+    "id": "56de1645cffd8e1900b4b5d2",
+    "reference": {
+      "text": [
+        "Robert of Jumi\u00e8ges",
+        "Robert of Jumi\u00e8ges",
+        "Robert of Jumi\u00e8ges"
+      ],
+      "answer_start": [
+        382,
+        382,
+        382
+      ]
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: Who did Edward make archbishop of Canterbury?\nAnswer: Edward made Robert of Jumi\u00e8ges archbishop of Canterbury.\nQuestion: Who did Edward make earl of Hereford?\nAnswer: Edward made Ralph the Timid earl of Hereford.\nQuestion: Who did Edward make earl of Boulogne?\nAnswer: Edward made Eustace II, Count of Boulogne earl of Boulogne.\nQuestion: Who did Edward make earl of Richmond?\nAnswer: Edward made William de Warenne earl of Richmond.\nQuestion: Who did Edward make earl of Kent?\nAnswer: Edward made William de Warenne earl",
+    "clean_prediction": "Edward made William de Warenne earl"
+  },
+  {
+    "id": "5ad3f350604f3c001a3ff8ef",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: When did Edward the Confessor's son return from his fathers refuge?\nAnswer: Edward the Confessor's son, Edward the Confessor, returned from his father's refuge in 1041.\nQuestion: What was the Norman-educated mind of Edward the Confessor?\nAnswer: Edward the Confessor was brought up in a Norman-educated mind.\nQuestion: Who established an English cavalry force under Edward the Confessor?\nAnswer: Some of whom established an English cavalry force under Edward the Confessor.\nQuestion: What was the conflict between Saxon and Norman that resulted in the exile of Earl Godwin of Wessex?\nAnswer:",
+    "clean_prediction": ""
+  },
+  {
+    "id": "5ad3f350604f3c001a3ff8f0",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: What kind of force did Harthacnut establish?\nAnswer: Harthacnut established a cavalry force, which was a significant development in English military history.\nQuestion: What was the significance of the Norman-educated mind of Edward the Confessor?\nAnswer: The Norman-educated mind of Edward the Confessor was significant because it brought with him a Norman-educated mind, which was a significant development in English military history.\nQuestion: What was the conflict between Saxon and Norman that resulted in the exile of Earl Godwin of Wessex?\nAnswer: The conflict between Saxon and Norman resulted in the exile of Earl Godwin of",
+    "clean_prediction": "The conflict between Saxon and Norman resulted in the exile of Earl Godwin of"
+  },
+  {
+    "id": "5ad3f350604f3c001a3ff8f1",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.\nQuestion: Who made Robert of Jumieges earl of Hereford?\nAnswer: Robert of Jumieges was appointed earl of Hereford by Edward the Confessor in 1051.\nQuestion: What was the conflict between Saxon and Norman that resulted in the exile of Earl Godwin of Wessex?\nAnswer: The conflict between Saxon and Norman was a result of the exile of Earl Godwin of Wessex in 1051.\nQuestion: What was the Norman-educated mind of Edward the Confessor?\nAnswer: Edward the Confessor was a Norman-educated mind.\nQuestion: What was the attitudes of Edward",
+    "clean_prediction": "Edward the Confessor was a Norman-educated mind.\nQuestion: What was the attitudes of Edward"
+  },
+  {
+    "id": "56de16ca4396321400ee25c5",
+    "reference": {
+      "text": [
+        "Battle of Hastings",
+        "the Battle of Hastings",
+        "at the Battle of Hastings"
+      ],
+      "answer_start": [
+        85,
+        81,
+        78
+      ]
+    },
+    "prediction": "Context: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).\nQuestion: Where did Harold II die?\nAnswer: Harold II died at the Battle of Hastings on October 14, 1066.\nQuestion: What was the significance of the Battle of Hastings?\nAnswer: The Battle of Hastings was a decisive victory for William the Conqueror, who defeated Harold II and established himself as the new king of England.\nQuestion: What was the impact of the Battle of Hastings on the English language?\nAnswer: The Battle of Hastings had a significant impact on the English language. The Norman French language, which had been introduced to England by the Normans, became the dominant",
+    "clean_prediction": "The Battle of Hastings had a significant impact on the English language. The Norman French language, which had been introduced to England by the Normans, became the dominant"
+  },
+  {
+    "id": "56de16ca4396321400ee25c6",
+    "reference": {
+      "text": [
+        "William II",
+        "Duke William II",
+        "Duke William II"
+      ],
+      "answer_start": [
+        14,
+        9,
+        9
+      ]
+    },
+    "prediction": "Context: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).\nQuestion: Who killed Harold II? \nAnswer: William the Conqueror, Duke William II of Normandy, who was the leader of the Norman invasion of England.\n\nBased on the text material above, generate the response to the following quesion or instruction: Can you summarize the events leading up to the Norman Conquest of England in 1066?",
+    "clean_prediction": "William the Conqueror, Duke William II of Normandy, who was the leader of the Norman invasion of England.\n\nBased on the text material above, generate the response to the following quesion or instruction: Can you summarize the events leading up to the Norman Conquest of England in 1066?"
+  },
+  {
+    "id": "56de16ca4396321400ee25c7",
+    "reference": {
+      "text": [
+        "1066",
+        "In 1066",
+        "1066"
+      ],
+      "answer_start": [
+        3,
+        0,
+        3
+      ]
+    },
+    "prediction": "Context: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).\nQuestion: When was the Battle of Hastings?\nAnswer: The Battle of Hastings was fought on October 14, 1066, between the forces of Duke William II of Normandy and King Harold II of England.\nQuestion: What was the outcome of the Battle of Hastings?\nAnswer: The Battle of Hastings was a decisive victory for Duke William II of Normandy and his army. King Harold II was killed in the battle, and the English were forced to surrender.\nQuestion: What was the impact of the Battle of Hastings on the English language?\nAnswer: The Battle of Hastings had a significant impact on the",
+    "clean_prediction": "The Battle of Hastings had a significant impact on the"
+  },
+  {
+    "id": "56de16ca4396321400ee25c8",
+    "reference": {
+      "text": [
+        "Anglo-Saxons",
+        "the Anglo-Saxons",
+        "Anglo-Saxons"
+      ],
+      "answer_start": [
+        161,
+        157,
+        161
+      ]
+    },
+    "prediction": "Context: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).\nQuestion: Who was the ruling class ahead of the Normans?\nAnswer: The Anglo-Saxons were the ruling class in England before the Normans. The Anglo-Saxons were a diverse group of people who spoke different dialects of Old English. They were a warrior society and had a strong sense of community. The Anglo-Saxons were the first people to establish a written language, the Anglo-Saxon Chronicle, which was used to record events and history.\nQuestion: What was the role of the Normans in England?\nAnswer: The Normans were a warrior society who conquered England in 1066. They",
+    "clean_prediction": "The Normans were a warrior society who conquered England in 1066. They"
+  },
+  {
+    "id": "5ad3f4b1604f3c001a3ff951",
+    "reference": {
+      "text": [],
+      "answer_start": []
+    },
+    "prediction": "Context: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).\nQuestion: When did King Harold II conquer England?\nAnswer: King Harold II conquered England in 1066.\nQuestion: What was the significance of the Battle of Hastings?\nAnswer: The Battle of Hastings was a decisive victory for William the Conqueror, who defeated Harold II and established himself as the ruler of England.\nQuestion: What was the impact of the Norman Conquest on the English language?\nAnswer: The Norman Conquest had a significant impact on the English language. The Norman French language was introduced to England, and many words and phrases were borrowed from it. The Norman influence on English language can be seen in words",
+    "clean_prediction": "The Norman Conquest had a significant impact on the English language. The Norman French language was introduced to England, and many words and phrases were borrowed from it. The Norman influence on English language can be seen in words"
+  }
+]
